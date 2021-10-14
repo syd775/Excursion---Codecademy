@@ -1,9 +1,27 @@
 :root {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 h1 {
     color: white;
     font-weight: normal;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    font-weight: normal;
+    font-size: 42px;
+}
+
+img{
+    display: block;
+    margin: 30px auto;
+}
+
+video{
+    display: block;
+    margin: 0 auto;
 }
