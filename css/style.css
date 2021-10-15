@@ -31,3 +31,8 @@ video{
 .copyright{
     text-align: right;
 }
+
+a:any-link {
+    color:aquamarine;
+}
+
