@@ -2,6 +2,8 @@
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    color: gray;
+    font-size: 21px;
 }
 
 h1 {
@@ -12,7 +14,7 @@ h1 {
 
 h2{
     color: white;
-    font-weight: normal;
+    font-weight: 300;
     font-size: 42px;
 }
 
@@ -24,4 +26,8 @@ img{
 video{
     display: block;
     margin: 0 auto;
+}
+
+.copyright{
+    text-align: right;
 }
